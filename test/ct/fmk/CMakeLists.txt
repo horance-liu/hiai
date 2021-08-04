@@ -1,0 +1,5 @@
+add_subdirectory(api)
+add_subdirectory(graph)
+add_subdirectory(model_compiler)
+add_subdirectory(model_executor)
+add_subdirectory(model_manager)
